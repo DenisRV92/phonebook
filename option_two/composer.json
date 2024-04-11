@@ -1,0 +1,16 @@
+{
+  "name": "denis/option_two",
+  "description": "Для автозагрузки классов",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Route\\": "Route/"
+    },
+    "authors": [
+      {
+        "name": "Denis"
+      }
+    ],
+    "require": {}
+  }
+}
